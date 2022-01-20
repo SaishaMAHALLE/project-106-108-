@@ -1,0 +1,16 @@
+.top_div {
+   background-color: slategray;
+   color: white;
+   
+}
+
+.main_div {
+    background-color: lightgrey;
+}
+
+.main_div button {
+    font-size: 20px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
